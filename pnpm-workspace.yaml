@@ -1,0 +1,23 @@
+minimumReleaseAge: 10080
+trustPolicy: no-downgrade
+trustPolicyExclude:
+  - "semver@6.3.1"
+minimumReleaseAgeExclude:
+  - "@lucid-softworks/oxfmt-config@0.1.1"
+  - "@lucid-softworks/oxlint-config@0.1.0"
+  - "@lucid-softworks/tsconfig@0.1.0"
+  - "@lucid-softworks/vitest-config@0.1.1"
+  - "@oxfmt/*"
+  - "@oxlint/*"
+  - "@publint/pack@0.1.6"
+  - "oxfmt@0.60.0"
+  - "oxlint@1.75.0"
+  - "publint@0.3.22"
+  - "@oxc-parser/*"
+  - "@oxc-project/types@0.141.0"
+  - "deslop-js@0.9.1"
+  - "oxc-parser@0.141.0"
+  - "oxlint-plugin-react-doctor@0.9.1"
+  - "react@19.2.8"
+  - "react-doctor@0.9.1"
+  - "react-dom@19.2.8"
