@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/tabs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Build accessible, unstyled tab interfaces from composable React components.",
   "keywords": [
     "accessibility",
