@@ -618,17 +618,3 @@ export const TabsPanel: ForwardRefExoticComponent<
     </div>
   );
 });
-
-export interface TabsComponents {
-  readonly List: typeof TabsList;
-  readonly Panel: typeof TabsPanel;
-  readonly Root: typeof TabsRoot;
-  readonly Tab: typeof TabsTab;
-}
-
-export const Tabs: TabsComponents = {
-  List: TabsList,
-  Panel: TabsPanel,
-  Root: TabsRoot,
-  Tab: TabsTab,
-};
