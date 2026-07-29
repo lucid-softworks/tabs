@@ -3,7 +3,7 @@ import { defineConfig, type UserConfig } from "vite";
 const config: UserConfig = defineConfig({
   build: {
     lib: {
-      entry: "src/index.tsx",
+      entry: "src/index.ts",
       fileName: "index",
       formats: ["es"],
     },
