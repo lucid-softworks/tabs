@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/lucid-softworks/tabs/compare/tabs-v0.1.0...tabs-v0.2.0) (2026-07-29)
+
+
+### Features
+
+* add interactive tabs demo ([#2](https://github.com/lucid-softworks/tabs/issues/2)) ([db94076](https://github.com/lucid-softworks/tabs/commit/db94076ac665ee6eb16f105e1a900cdb6422f895))
+
 ## 0.1.0 (2026-07-27)
 
 
